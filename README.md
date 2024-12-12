@@ -1,2 +1,1 @@
-# 3D-model-flyby
-This code transforms a single 2D image to a 3D model from using a combination of Python libraries for data handling, processing, and visualization
+This code will explore the various aspects of the data, visualizing and analyzing it in different ways
